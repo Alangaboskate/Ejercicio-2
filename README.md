@@ -46,7 +46,8 @@ _Desarrollo y creación del videojuego "la viborita" :snake: :hear_no_evil: por 
 
 12. Realizar pruebas y obtener retroalimentación.
 
-![Chinches UNAM]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.generacionuniversitaria.com.mx%2Fcampus%2Flos-mejores-memes-por-la-plaga-de-chinches-en-la-unam%2F&psig=AOvVaw31BQhXJIzL_BOWRGsAjL_z&ust=1706985303444000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDq7PaljYQDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.generacionuniversitaria.com.mx%2Fcampus%2Flos-mejores-memes-por-la-plaga-de-chinches-en-la-unam%2F&psig=AOvVaw31BQhXJIzL_BOWRGsAjL_z&ust=1706985303444000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDq7PaljYQDFQAAAAAdAAAAABAE)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn2.actitudfem.com/830x623/filters:format(jpg):quality(75)/media/files/images/2023/10/meme-chinches.jpg)
+
 _Con el plan anterior tendremos la oportunidad de llevar a cabo un codigo en lenguaje c# para poder crear un videojuego de "La viborita" de una manera más completa y divertida_ 
 > [!NOTE]
 > _Esto es solo un ejemplo de como hacer un archivo readme.md en github_
