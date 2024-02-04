@@ -8,41 +8,41 @@ _Desarrollo y creación del videojuego "la viborita" :snake: :hear_no_evil: por 
 
 2. Implementar controles de teclado y crecimiento.
 - Colisiones
-- Obstáculos:
+- Obstáculos
 
 3. Diseñar obstáculos y programar colisiones.
 - Alimentos
-- Poderes:
+- Poderes
 
 4. Crear alimentos y elementos especiales.
 - Diseño Gráfico
-- Sonido:
+- Sonido
 
 5. Desarrollar gráficos y agregar efectos de sonido.
 - Puntuación
-- Estadísticas:
+- Estadísticas
 
 6. Implementar sistema de puntuación.
-- Modo Multijugador:
+- Modo Multijugador
 
 7. Agregar funcionalidad multijugador.
 - Personalización
-- Temas:
+- Temas
 
 8. Permitir personalización y agregar temas.
-- Integración de Leaderboards:
+- Integración de Leaderboards
 
 9. Registrar puntuaciones en línea.
 - Optimización
-- Rendimiento:
+- Rendimiento
 
 10. Revisar y optimizar código.
 - Tutorial
-- Ayuda:
+- Ayuda
 
 11. Crear tutorial interactivo.
 - Pruebas
-- Retroalimentación:
+- Retroalimentación
 
 12. Realizar pruebas y obtener retroalimentación.
 
